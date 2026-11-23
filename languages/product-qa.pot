@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Product Q&A\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Email"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Example: Q&A"
+msgstr ""
+
+msgid "Q&A"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Questions"
+msgstr ""
+
+msgid "Questions awaiting approval"
+msgstr ""
+
+msgid "Review / Approve"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Submit question"
+msgstr ""
+
+msgid "Tab title"
+msgstr ""
+
+msgid "Thank you for your question. It will be published after approval."
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "Your question..."
+msgstr ""
